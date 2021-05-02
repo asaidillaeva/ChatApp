@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "460544117333",
+    "firebase_url": "https://neobischat01.firebaseio.com",
+    "project_id": "neobischat01",
+    "storage_bucket": "neobischat01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460544117333:android:29d647938d17b4554662dc",
+        "android_client_info": {
+          "package_name": "com.example.android.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460544117333-8hsh2n230aalr4jh581r4f0lhrtjth1v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.chatapp",
+            "certificate_hash": "d5da3ba3f2f81ffd4320053272f0b2d3ab774a71"
+          }
+        },
+        {
+          "client_id": "460544117333-p6seh6neee1jg38j4fk93v0oht1lk3su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkjyR49uMJ5zo9ND8edJzyqi9Or15-qKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460544117333-p6seh6neee1jg38j4fk93v0oht1lk3su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460544117333:android:405c228a1d3c25604662dc",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460544117333-p6seh6neee1jg38j4fk93v0oht1lk3su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkjyR49uMJ5zo9ND8edJzyqi9Or15-qKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460544117333-p6seh6neee1jg38j4fk93v0oht1lk3su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460544117333:android:45c2d557d07c398c4662dc",
+        "android_client_info": {
+          "package_name": "com.kyrgyzcoder.neobischat01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460544117333-gs2k2mvkelh602b9jq3vfce8f4rgkjlt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kyrgyzcoder.neobischat01",
+            "certificate_hash": "5b4d4d12bd1311721b12df8f74d8a31f379e17d6"
+          }
+        },
+        {
+          "client_id": "460544117333-p6seh6neee1jg38j4fk93v0oht1lk3su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkjyR49uMJ5zo9ND8edJzyqi9Or15-qKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460544117333-p6seh6neee1jg38j4fk93v0oht1lk3su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
